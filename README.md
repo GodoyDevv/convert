@@ -21,15 +21,11 @@ A interface tem um design moderno e intuitivo, onde o usuário precisa apenas in
 
 ## 🛠 Como Usar
 
-1. **Baixe ou clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/conversor-moedas.git
-   ```
-2. **Abra o arquivo `index.html` em um navegador.**
-3. **Digite um valor no campo de entrada.**
-4. **Selecione a moeda de origem (USD, EUR ou GBP).**
-5. **Clique no botão "Converter em reais".**
-6. **Veja o resultado da conversão na tela.**
+1. Acesse o link na sessão about ao lado.
+2. **Digite um valor no campo de entrada.**
+3. **Selecione a moeda de origem (USD, EUR ou GBP).**
+4. **Clique no botão "Converter em reais".**
+5. **Veja o resultado da conversão na tela.**
 
 ## 🔧 Como Funciona
 
