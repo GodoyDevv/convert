@@ -65,3 +65,6 @@ Se quiser melhorar este projeto, fique à vontade para fazer um fork, modificar 
 ## 📜 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar como quiser!
+
+## Autor
+Desenvolvido por [GodoyDevv](https://github.com/GodoyDevv).
